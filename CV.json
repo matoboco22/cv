@@ -1,0 +1,84 @@
+{
+  "Životopis": {
+    "Osobné údaje": {
+      "Meno": "Matej Bočko",
+      "Vek": 33,
+      "Adresa": "Zapotok 94, Šenkvice 90081",
+      "Telefón": "+421 911 418 551",
+      "Email": "mato@mbocko.sk"
+    },
+    "Vzdelanie": [
+      {
+        "Škola": "SPŠ Chemická - Chémia liečiv",
+        "Rok od-do": "1999-2003",
+        "Ukončenie": "Maturitná skúška"
+      },
+      {
+        "Škola": "SPŠ Elektrotechnická - Vyššie Odborné Vzdelanie - 2695 7 00 - Počítačové systémy",
+        "Rok od-do": "2006-2009",
+        "Ukončenie": "Absolventská skúška, titul DiS."
+      }
+    ],
+    "Pracovné skúsenosti": [
+      {
+        "Pozícia": "Freelancer Web Developer",
+        "Zamestnávateľ": "Živnostník",
+        "Rok od-do": "2009 - 2012",
+        "Popis": "Počítačové služby, reklamné a marketingové služby, služby súvisiace s počítačovým spracovaním údajov. Tvorba internetových stránok, e-shopov a intranetových aplikácii"
+      },
+      {
+        "Pozícia": "Java Web Developer",
+        "Zamestnávateľ": "Interway a.s.",
+        "Rok od-do": "2012 - 2018",
+        "Popis": "Programátor webových aplikácii, informačných systémov "
+      }
+    ],
+    "Znalosti": [
+      {
+        "Jazykové": [
+          {
+            "Jazyk": "Slovenský jazyk",
+            "Úroveň": "Materinský jazyk"
+          },
+          {
+            "Jazyk": "Anglický jazyk",
+            "Úroveň": "Mierne pokročilý - Jednoznačné porozumenie technickej dokumentácii"
+          }
+        ],
+        "Databázové": [
+          "MySQL/MariaDB",
+          "Oracle",
+          "MSSQL"
+        ],
+        "Programovacie jazyky": [
+          "Java 8",
+          "JSP (EL)",
+          "SQL",
+          "JS",
+          "HTML"
+        ],
+        "Aplikačné servery a nástroje": [
+          "Apache Tomcat",
+          "jBoss",
+          "Jenkins CI",
+          "Apache Ant",
+          "Apache Maven"
+        ],
+        "Java Frameworky": {
+          "Web": [
+            "Spring",
+            "Stripes",
+            "Struts"
+          ],
+          "DB": [
+            "JPA:EclipseLink",
+            "JDBC",
+            "Apache Cayenne"
+          ],
+          "WS": ["SOAP-Axis/CXF, REST-Spring/Jersey"],
+          "Vývojové prostredia - IDE" : ["IntelliJ Idea", "Eclipse", "Oracle Sql developer", "MySql workbench"]
+        }
+      }
+    ]
+  }
+}
